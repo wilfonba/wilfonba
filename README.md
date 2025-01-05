@@ -4,7 +4,8 @@
 * I work on developing the GPU accelerated compressible multiphase flow solver [MFC](https://mflowcode.github.io) ([GitHub repo.](https://github.com/MFlowCode/MFC))
   * MFC is written in Fortran and GPU accelerated using OpenACC
   * MFC scales with near-ideal efficiency to over 65k processes on OLCF Frontier
-  * MFC uses high order spatial and temporal reconstructions for high-fidelity simulation
+  * MFC uses high-order spatial and temporal reconstructions for high-fidelity simulation
+* I'm passionate about computational fluid dynamics, scientific visualization, and leadership class supercomputing 
 
 <p align="center">
     <img src="airfoil-animated.png" alt="Airfoil Example" width="700"/><br/>
