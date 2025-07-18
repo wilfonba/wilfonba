@@ -8,6 +8,6 @@
 * I'm passionate about computational fluid dynamics, scientific visualization, and leadership class supercomputing 
 
 <p align="center">
-    <img src="airfoil-animated.png" alt="Airfoil Example" width="700"/><br/>
-    Example of my work (<a href="https://vimeo.com/917305340/c05fd414c8?share=copy" target="_blank">full video</a>)
+    <img src="jets-animated.png" alt="Airfoil Example" width="700"/><br/>
+    Example of my work
 </p>
